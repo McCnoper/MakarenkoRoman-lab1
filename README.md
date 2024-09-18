@@ -1,1 +1,1 @@
-# MakarenkoRoman-lab1
+# Makarenko_lab1
